@@ -35,3 +35,5 @@
 - [User Testing](https://github.com/Terrence-Charamba/Vegeta/blob/master/Iteration%203/Vegeta%20User%20Testing.xlsx)
 
 - [Progress Report](https://github.com/Terrence-Charamba/Vegeta/blob/master/Iteration%203/PROGRESS%20repot%203.docx)
+
+  *This Page is for academic purposes **ONLY***
